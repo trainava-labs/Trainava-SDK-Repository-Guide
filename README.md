@@ -133,7 +133,7 @@ pytest            # Python
 
 ## 📚 Documentation
 
-All docs are in the `/docs` folder or viewable at [docs.trainava.ai](https://docs.trainava.ai)
+All docs are in the `/docs` folder or viewable at [trainava-docs](https://trainava.gitbook.io/trainava-docs)
 
 ---
 
@@ -147,10 +147,10 @@ All docs are in the `/docs` folder or viewable at [docs.trainava.ai](https://doc
 
 ## 📬 Contact & Support
 
-* Website: [https://trainava.ai](https://trainava.ai)
-* Support Email: [support@trainava.ai](mailto:support@trainava.ai)
-* Twitter: [@trainava\_ai](https://twitter.com/trainava_ai)
-* Telegram Community: [t.me/trainava](https://t.me/trainava)
+* Website: [https://trainava.com](https://trainava.com)
+* Support Email: [support@trainava.com](mailto:support@trainava.com)
+* Twitter: [@trainava_Labs](https://x.com/Trainava_Labs)
+* Telegram Community: [t.me/trainava_Labs](https://t.me/Trainava_Labs)
 
 ---
 
